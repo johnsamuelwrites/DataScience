@@ -12,6 +12,7 @@ Sujets de travaux pratiques de module Data Science
 - John Samuel
 
 ## Archives and Releases
+- [Zenodo](https://doi.org/10.5281/zenodo.10687448)
 - [Release Notes](RELEASE.md)
 
 ## Licence
