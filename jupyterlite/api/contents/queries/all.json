@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2024-02-21T16:00:30.263166Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-02-21T16:00:28.655176Z",
+      "mimetype": "application/sparql-query",
+      "name": "articles.rq",
+      "path": "queries/articles.rq",
+      "size": 423,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-02-21T16:00:30.263166Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-02-21T16:00:28.655176Z",
+      "mimetype": "application/sparql-query",
+      "name": "chemical_compound.rq",
+      "path": "queries/chemical_compound.rq",
+      "size": 409,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2024-02-21T16:00:30.263166Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2024-02-21T16:00:30.263166Z",
+  "mimetype": null,
+  "name": "queries",
+  "path": "queries",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
